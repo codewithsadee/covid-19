@@ -1,0 +1,286 @@
+COVID-19 Tracker
+
+This is a corona html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = Covid-19 home
+
+Home
+About
+Prevention
+Blog
+Shop
+Contact
+
+aria-label = toggle menu
+<ion-icon name="menu-outline" aria-hidden="true" class="menu"></ion-icon>
+<ion-icon name="close-outline" aria-hidden="true" class="close"></ion-icon>
+
+Are You Sick
+
+
+
+#---------- HERO ----------#
+
+COVID-19 Tracker
+
+Tatal Confirmed Corona Cases
+
+960708
+
+Active cases
+799571
+
+Recovered cases
+302826
+
+Deaths
+52558
+
+Meet The Doctor
+
+alt = corona virus
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+How Virus Spread
+
+How Contagion Coronavirus
+
+Don’t get shirty with mein owtto doing with me arse down the problems have it car boot happy days no biggie bevvy only awesome quid I,m goods info my theme flat the lttle rotter cheeky boot happy days
+
+alt = Human Contact
+Human Contact
+Our comprehensive Online Marketing strategy will boost your website trafic hence monthly sales.
+
+alt = Air Transmission
+Air Transmission
+
+alt = Contaminated Objects
+Contaminated Objects
+
+
+
+#---------- SERVICE ----------#
+
+Corona Virus Symptoms
+
+Dynamically formulate fully tested catalysts for change via focused methods of empowerment Assertively extend alternative synergy and extensive web services.
+
+alt = service image
+
+Coughing And Sneezing
+
+Our comprehensive Online Marketing strategy will boost your website trafic hence monthly sales.
+
+Hot Fever
+
+Strong Headacke
+
+Shortness Of Breath
+
+Confusion
+
+Sore Throat
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+About (2020-nCoV)
+
+Prevention Coronavirus
+
+Don’t get shirty with mein owtto doing with me arse down the problems have it car boot happy days no biggie bevvy only awesome quid I,m goods info my theme flat the lttle rotter cheeky boot happy days
+
+alt = Wash Your Hands For 20sec
+Wash Your Hands For 20sec
+Our comprehensive Online Marketing strategy will boost your website trafic hence monthly sales.
+
+alt = Cover Nose and Mouth When Sneezing 
+Cover Nose and Mouth When Sneezing
+
+alt = Wear A Mask If Available
+Wear A Mask If Available
+
+
+
+#---------- DOCTOR ----------#
+
+Meet Our Best Doctors
+
+Dynamically formulate fully tested catalysts for change via focused methods of empowerment Assertively extend alternative synergy and extensive web services.
+
+alt = Dorothy M. Nickell profile
+
+Dorothy M. Nickell
+
+Throat Specialist
+
+Proce Aran Manu Proucs Rahe Conen Cuve Manu Produ Rahe Cuvaes Mana The Conen Testin Motin Was Procedur
+
+<ion-icon name="call" aria-hidden="true"></ion-icon>
++502 1234 567 890
+
+<ion-icon name="mail" aria-hidden="true"></ion-icon>
+d.m.nickell@gmail.com
+
+alt = Billie R. Courtney profile
+
+Billie R. Courtney
+
+Cardiologist
+b.r.courtney@gmail.com
+
+alt = Courtney A. Smith profile
+
+Courtney A. Smith
+
+Rehabilitation Therapy
+c.a.smith@gmail.com
+
+
+
+#---------- SAFETY ----------#
+
+How to Wash Your Hands
+
+Dynamically formulate fully tested catalysts for change via focused methods of empowerment Assertively extend alternative synergy and extensive web services.
+
+1
+alt = Wet Hands
+Wet Hands
+
+2
+alt = Apply Soap
+Apply Soap
+
+3
+alt = Rub Hands Palm to palm
+Rub Hands Palm to palm
+
+4
+alt = Lather The Back of Both Hands
+Lather The Back of Both Hands
+
+5
+alt = Scrub Between Your Fingers
+Scrub Between Your Fingers
+
+6
+alt = Rub The Back of Fingers on The Opposing Palm
+Rub The Back of Fingers on The Opposing Palm
+
+7
+alt = Clean Thumbs
+Clean Thumbs
+
+8
+alt = Wash Fingernails And Fingertips
+Wash Fingernails And Fingertips
+
+9
+alt = Rinse Hands
+Rinse Hands
+
+10
+alt = Dry with a Single Use Towel
+Dry with a Single Use Towel
+
+11
+alt = Use The Towel to Rurn off The Foucet
+Use The Towel to Rurn off The Foucet
+
+12
+alt = Your Hands Are Clean
+Your Hands Are Clean
+
+
+
+#---------- BLOG ----------#
+
+Our Most Popular Blog
+
+Dynamically formulate fully tested catalysts for change via focused methods of empowerment Assertively extend alternative synergy and extensive web services.
+
+alt = Conulting Reporting Qouncil Arei Not Could More...
+Conulting Reporting Qouncil Arei Not Could More...
+
+<ion-icon name="calendar-outline" aria-hidden="true"></ion-icon>
+July 12, 2022
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+John Doe
+
+Pluoresntly customize pranci an plcentered customer service anding strategic amerials Interacvely cordinate performe
+Read More
+
+alt = Financial Reporting Qouncil What Could More...
+Financial Reporting Qouncil What Could More...
+
+alt = Consulting Reporting Qounc Arei Could More...
+Consulting Reporting Qounc Arei Could More...
+
+
+
+#---------- FOOTER ----------#
+
+About Covid-19
+We believe in Simple Creative and Flexible Design Standards.
+
+Headquarters:
+795 Folsom Ave, Suite 600 San Francisco, CA 94107
+
+Phone:
+(+52) 4623 435643
+
+Email:
+info@covid-19.com
+
+Navigate
+
+<ion-icon name="caret-forward" aria-hidden="true"></ion-icon>
+Advertisers
+Developers
+Resources
+Company
+Connect
+
+Social Contact
+
+<ion-icon name="logo-facebook" aria-hidden="true"></ion-icon>
+Facebook
+<ion-icon name="logo-twitter" aria-hidden="true"></ion-icon>
+Twitter
+<ion-icon name="logo-instagram" aria-hidden="true"></ion-icon>
+Instagram
+<ion-icon name="logo-youtube" aria-hidden="true"></ion-icon>
+YouTube
+<ion-icon name="logo-xing" aria-hidden="true"></ion-icon>
+Xing
+
+Privacy And Tos
+
+Advertiser Agreement
+Acceptable Use Policy
+Privacy Policy
+Technology Privacy
+Developer Agreement
+
+&copy; 2020 All Rights Reserved. Developed by codewithsadee
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+<ion-icon name="arrow-up-outline" aria-hidden="true"></ion-icon>
